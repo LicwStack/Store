@@ -1,5 +1,4 @@
-QT      += core gui webkit webkitwidgets network
-QT      += opengl widgets
+QT  +=  webkitwidgets
 
 SOURCES += \
     main.cpp
